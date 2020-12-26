@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Main {
+public class HomeWork {
     public static void GuessNumberGame() {
         int number = (int) (Math.random() * 1000);
         Scanner in = new Scanner(System.in);
